@@ -1,8 +1,12 @@
-[final_report.md](https://github.com/user-attachments/files/32741297/final_report.md)[Uploading final_# From Gene Mutation to Disease: Li-Fraumeni Syndrome and the TP53 R175H Mutation
+# From Gene Mutation to Disease: Li-Fraumeni Syndrome and the TP53 R175H Mutation
 
-**Name:** Alama, Rhealyn F. | **Section:** B | **Subject:** Cell & Molecular Biology
-**Activity:** 4, Gene Mutation to Disease | **Instructors:** Abner A. Bucol & Mrs. Lilibeth A. Bucol
-**Date:** September 18, 2026 | **Galaxy history:** Alama_LiFraumeni_TP53_Mutation_Lab
+**Name:** Alama, Rhealyn F.  
+**Section:** B  
+**Subject:** Cell & Molecular Biology
+**Activity:** 4, Gene Mutation to Disease 
+**Instructors:** Sir Abner A. Bucol & Ma'am Lilibeth A. Bucol
+**Date:** September 18, 2026 
+**Galaxy history:** Alama_LiFraumeni_TP53_Mutation_Lab
 
 ---
 
