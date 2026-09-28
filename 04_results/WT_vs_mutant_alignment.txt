@@ -1,0 +1,69 @@
+########################################
+# Program: needle
+# Rundate: Wed 16 Sep 2026 02:44:40
+# Commandline: needle
+#    -asequence /corral4/main/objects/3/5/3/dataset_353dc868-08ad-4bcc-8185-a27ba616c91f.dat
+#    -bsequence /corral4/main/objects/f/9/6/dataset_f968d326-7889-432e-903a-4a308b38aada.dat
+#    -outfile /corral4/main/jobs/079/782/79782627/outputs/dataset_9958b34e-422b-4611-a480-c0e06a084c3c.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /corral4/main/jobs/079/782/79782627/outputs/dataset_9958b34e-422b-4611-a480-c0e06a084c3c.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 143-1324_1
+# 2: TP53_R175H_CDS_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 393
+# Identity:     392/393 (99.7%)
+# Similarity:   392/393 (99.7%)
+# Gaps:           0/393 ( 0.0%)
+# Score: 2116.0
+# 
+#
+#=======================================
+
+143-1324_1         1 MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDI     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD      1 MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDI     50
+
+143-1324_1        51 EQWFTEDPGPDEAPRMPEAAPPVAPAPAAPTPAAPAPAPSWPLSSSVPSQ    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD     51 EQWFTEDPGPDEAPRMPEAAPPVAPAPAAPTPAAPAPAPSWPLSSSVPSQ    100
+
+143-1324_1       101 KTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDST    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD    101 KTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDST    150
+
+143-1324_1       151 PPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGN    200
+                     ||||||||||||||||||||||||.|||||||||||||||||||||||||
+TP53_R175H_CD    151 PPPGTRVRAMAIYKQSQHMTEVVRHCPHHERCSDSDGLAPPQHLIRVEGN    200
+
+143-1324_1       201 LRVEYLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRP    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD    201 LRVEYLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRP    250
+
+143-1324_1       251 ILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHELP    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD    251 ILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHELP    300
+
+143-1324_1       301 PGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELNEALEL    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD    301 PGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELNEALEL    350
+
+143-1324_1       351 KDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD    393
+                     |||||||||||||||||||||||||||||||||||||||||||
+TP53_R175H_CD    351 KDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD    393
+
+
+#---------------------------------------
+#---------------------------------------
