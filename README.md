@@ -30,27 +30,6 @@ The wild-type (WT) TP53 CDS was translated in Galaxy to give a predicted protein
 
 R175H changes one amino acid in the DNA-binding domain without changing predicted protein length. The artificial deletion shifts the reading frame and produces a truncated predicted protein. All protein sequences here are predicted from translation; expression and function were not tested.
 
-## Repository Structure
-
-```
-Alama_LiFraumeni_TP53_Mutation_Lab/
-├── README.md
-├── 01_reference/
-│   ├── TP53_WT_CDS.fasta
-│   └── TP53_WT_protein.fasta
-├── 02_documented_mutation/
-│   ├── TP53_R175H_CDS.fasta
-│   └── TP53_R175H_protein.fasta
-├── 03_artificial_mutation/
-│   ├── TP53_artificial_1ntdel_CDS.fasta
-│   └── TP53_artificial_1ntdel_protein.fasta
-├── 04_results/
-│   ├── WT_vs_mutant_alignment.txt
-│   ├── WT_vs_artificial_alignment.txt
-│   └── results_summary.md
-└── 05_report/
-    └── final_report.md
-```
 
 ## Workflow
 
@@ -63,25 +42,8 @@ Alama_LiFraumeni_TP53_Mutation_Lab/
 
 The original WT files were never modified; every edit was made on a copy.
 
-## Files
-
-| File | Description |
-|---|---|
-| `TP53_WT_CDS.fasta` | WT coding sequence (NM_000546.6:143–1324) |
-| `TP53_WT_protein.fasta` | WT predicted protein sequence |
-| `TP53_R175H_CDS.fasta` | CDS with c.524G>A |
-| `TP53_R175H_protein.fasta` | R175H predicted protein sequence |
-| `TP53_artificial_1ntdel_CDS.fasta` | CDS with single-nucleotide deletion at position 100 |
-| `TP53_artificial_1ntdel_protein.fasta` | Artificial mutant predicted protein sequence |
-| `WT_vs_mutant_alignment.txt` | needle alignment, WT vs R175H |
-| `WT_vs_artificial_alignment.txt` | needle alignment, WT vs artificial mutant |
-| `results_summary.md` | Summary of results |
-| `final_report.md` | Final report |
-
 ## References
 
 - NCBI RefSeq: NM_000546.6, NP_000537.3
 - ClinVar VCV000012374.13: NM_000546.6(TP53):c.524G>A (p.Arg175His)
 - Cho Y, et al. Crystal structure of a p53 tumor suppressor-DNA complex. *Science*. 1994;265(5170):346–355.
-
-Full reference list: see `05_report/final_report.md`.
