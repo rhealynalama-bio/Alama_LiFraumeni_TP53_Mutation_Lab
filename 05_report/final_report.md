@@ -3,9 +3,12 @@
 **Name:** Alama, Rhealyn F.  
 **Section:** B  
 **Subject:** Cell & Molecular Biology
-**Activity:** 4 Gene Mutation to Disease 
+**Activity:** 4 Gene Mutation to Disease
+
 **Instructors:** Sir Abner A. Bucol & Ma'am Lilibeth A. Bucol
-**Date:** September 18, 2026 
+
+**Date:** September 18, 2026
+
 **Galaxy history:** Alama_LiFraumeni_TP53_Mutation_Lab
 
 ---
