@@ -1,4 +1,3 @@
-[results_summary.md](https://github.com/user-attachments/files/32741092/results_summary.md)
 # Results Summary: TP53 (Li-Fraumeni Syndrome)
 
 **Galaxy history:** Alama_LiFraumeni_TP53_Mutation_Lab
