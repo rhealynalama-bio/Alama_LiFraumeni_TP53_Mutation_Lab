@@ -5,9 +5,9 @@
 | Item | Details |
 |---|---|
 | **Name** | Alama, Rhealyn F. |
+| **Subject** | BIO 300-Cell and Molecular Biology|
 | **Section** | B |
-| **Subject** | Cell & Molecular Biology |
-| **Instructors** | Abner A. Bucol & Mrs. Lilibeth A. Bucol |
+| **Instructors** | Sir Abner A. Bucol & Ma'am Lilibeth A. Bucol |
 | **Disease** | Li-Fraumeni syndrome |
 | **Gene** | TP53 (chromosome 17p13.1) |
 | **Reference transcript / CDS** | NM_000546.6 (CDS region 143–1324, 1,182 nt) |
