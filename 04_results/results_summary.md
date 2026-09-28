@@ -1,7 +1,9 @@
 # Results Summary: TP53 (Li-Fraumeni Syndrome)
 
 **Galaxy history:** Alama_LiFraumeni_TP53_Mutation_Lab
+
 **Reference:** NM_000546.6 (CDS 143–1324), NP_000537.3
+
 **Documented variant:** c.524G>A (p.Arg175His), ClinVar VCV000012374.13
 
 ## Key Results
