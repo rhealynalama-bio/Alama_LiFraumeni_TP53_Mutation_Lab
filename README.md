@@ -1,8 +1,6 @@
 [README.md](https://github.com/user-attachments/files/32733962/README.md)
 # From Gene Mutation to Disease: TP53 and Li-Fraumeni Syndrome
 
-Electronic laboratory notebook for the Cell and Molecular Biology laboratory *From Gene Mutation to Disease* (Activity 4).
-
 ## Project Information
 
 | Item | Details |
