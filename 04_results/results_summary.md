@@ -24,7 +24,7 @@
 - The 1-nt deletion shifted the reading frame after codon 34 and produced a 42-aa predicted protein (about 11% of WT length).
 - Both edits changed one nucleotide, but only the deletion changed the reading frame. Mutation type, location, and reading-frame effect determine severity, not the number of nucleotides changed.
 
-## Caution
+## Note
 
 All protein sequences are predicted from translation. Expression, folding, and DNA-binding activity were not tested, and the link to Li-Fraumeni syndrome comes from published studies.
 
