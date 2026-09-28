@@ -1,8 +1,9 @@
 # From Gene Mutation to Disease: Li-Fraumeni Syndrome and the TP53 R175H Mutation
 
 **Name:** Alama, Rhealyn F.  
-**Section:** B  
-**Subject:** Cell & Molecular Biology
+
+**Subject and Section:** Cell & Molecular Biology-B
+
 **Activity:** 4 Gene Mutation to Disease
 
 **Instructors:** Sir Abner A. Bucol & Ma'am Lilibeth A. Bucol
