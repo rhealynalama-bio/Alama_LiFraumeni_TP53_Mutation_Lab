@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32733962/README.md)
 # From Gene Mutation to Disease: TP53 and Li-Fraumeni Syndrome
 
 ## Project Information
