@@ -1,0 +1,69 @@
+########################################
+# Program: needle
+# Rundate: Fri 18 Sep 2026 01:03:15
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79840393/inputs/dataset_353dc868-08ad-4bcc-8185-a27ba616c91f.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79840393/inputs/dataset_a3df79d3-5026-493e-80fb-c1dcc960570c.dat
+#    -outfile /jetstream2/scratch/main/jobs/79840393/outputs/dataset_5edccaf8-f57e-4ca9-a8d1-98210089668c.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79840393/outputs/dataset_5edccaf8-f57e-4ca9-a8d1-98210089668c.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 143-1324_1
+# 2: TP53_artificial_1nt_deletion_protein
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 394
+# Identity:      37/394 ( 9.4%)
+# Similarity:    37/394 ( 9.4%)
+# Gaps:         353/394 (89.6%)
+# Score: 181.0
+# 
+#
+#=======================================
+
+143-1324_1         1 MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPL-PSQAMDDLMLSPDD     49
+                     ||||||||||||||||||||||||||||||||||. |.|.|.        
+TP53_artifici      1 MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPCRPKQWMI--------     42
+
+143-1324_1        50 IEQWFTEDPGPDEAPRMPEAAPPVAPAPAAPTPAAPAPAPSWPLSSSVPS     99
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       100 QKTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDS    149
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       150 TPPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEG    199
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       200 NLRVEYLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSCMGGMNRR    249
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       250 PILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHEL    299
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       300 PPGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELNEALE    349
+                                                                       
+TP53_artifici     42 --------------------------------------------------     42
+
+143-1324_1       350 LKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD    393
+                                                                 
+TP53_artifici     42 --------------------------------------------     42
+
+
+#---------------------------------------
+#---------------------------------------
